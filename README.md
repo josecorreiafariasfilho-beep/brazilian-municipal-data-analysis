@@ -98,6 +98,7 @@ Municipal BNDES disbursements show substantial variation over time.
 Because monetary values are expressed in nominal Brazilian reais, the observed variation should not be interpreted as real changes without adjusting for inflation.
 
 ## Exploratory Data Analysis
+```
 
 ### Annual BNDES Municipal Disbursements
 
