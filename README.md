@@ -1,10 +1,26 @@
 # Brazilian Municipal BNDES Data Analysis
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Project-success)
+
 ## Data Cleaning, Transformation and Exploratory Analysis with Python
 
 This project demonstrates an end-to-end data analysis workflow using Brazilian municipal-level BNDES financing data.
 
 The objective is to transform a large raw transactional dataset into a clean and validated analytical dataset suitable for municipal-level analysis.
+
+## Project Highlights
+
+- Processed more than **3.5 million raw financing records**
+- Identified and corrected structural data-quality issues
+- Built a validated dataset with more than **3.2 million municipal financing records**
+- Aggregated transactions into approximately **689,000 municipality-month observations**
+- Validated **5,541 municipality identifiers**
+- Preserved financial totals through aggregation checks
+- Created a reproducible public sample with **150 municipalities and approximately 19,000 observations**
 
 ---
 
