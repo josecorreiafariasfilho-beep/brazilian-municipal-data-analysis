@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+notebooks/anaconda_projects/
+
+data/*
+!data/municipal_bndes_sample.csv
