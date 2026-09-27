@@ -105,7 +105,7 @@ The resulting dataset contains approximately:
 - 222 monthly periods
 - 689,000 municipality-month observations
 The analysis covers January 2008 through June 2026.
-
+```
 ## Exploratory Data Analysis
 
 ###Annual BNDES Municipal Disbursements
@@ -114,7 +114,7 @@ Municipal BNDES disbursements show substantial variation over time.
 Because monetary values are expressed in nominal Brazilian reais, the observed variation should not be interpreted as real changes without adjusting for inflation.
 
 ## Exploratory Data Analysis
-```
+
 
 ### Annual BNDES Municipal Disbursements
 
