@@ -109,14 +109,6 @@ The analysis covers January 2008 through June 2026.
 ## Exploratory Data Analysis
 
 ### Annual BNDES Municipal Disbursements
-![Annual BNDES disbursements](figures/annual_disbursements.png)
-Municipal BNDES disbursements show substantial variation over time.
-Because monetary values are expressed in nominal Brazilian reais, the observed variation should not be interpreted as real changes without adjusting for inflation.
-
-## Exploratory Data Analysis
-
-
-### Annual BNDES Municipal Disbursements
 
 ![Annual BNDES disbursements](figures/annual_disbursements.png)
 
